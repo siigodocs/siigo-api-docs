@@ -1,0 +1,13 @@
+# Globals
+.DS_Store
+*.DS_Store
+
+# .NET C#
+/dotnet/example_code/.vs
+/dotnet/example_code/*.vs
+/dotnet/example_code/obj
+/dotnet/example_code/packages
+/dotnet/example_code/packages.config
+
+# Java
+/java/example_code/target
